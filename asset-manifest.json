@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/csv-dnd/static/js/main.48f29b0b.chunk.js",
+    "main.js.map": "/csv-dnd/static/js/main.48f29b0b.chunk.js.map",
+    "runtime-main.js": "/csv-dnd/static/js/runtime-main.1a2a5664.js",
+    "runtime-main.js.map": "/csv-dnd/static/js/runtime-main.1a2a5664.js.map",
+    "static/js/2.065b6796.chunk.js": "/csv-dnd/static/js/2.065b6796.chunk.js",
+    "static/js/2.065b6796.chunk.js.map": "/csv-dnd/static/js/2.065b6796.chunk.js.map",
+    "index.html": "/csv-dnd/index.html",
+    "precache-manifest.c2c6cd715a76827b04561bfa9d0ddef8.js": "/csv-dnd/precache-manifest.c2c6cd715a76827b04561bfa9d0ddef8.js",
+    "service-worker.js": "/csv-dnd/service-worker.js",
+    "static/js/2.065b6796.chunk.js.LICENSE.txt": "/csv-dnd/static/js/2.065b6796.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a2a5664.js",
+    "static/js/2.065b6796.chunk.js",
+    "static/js/main.48f29b0b.chunk.js"
+  ]
+}
